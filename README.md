@@ -1,1 +1,1 @@
-# vit-from-scratch
+# ViT-from-scratch
