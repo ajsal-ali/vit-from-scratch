@@ -45,7 +45,7 @@ The key components implemented are:
 |----------------|-----------|
 | Dataset        | CIFAR-10  |
 | Input Size     | 32 × 32   |
-| Accuracy       | 62.90% |
+| Accuracy       | 98% |
 | Epochs         | 200       |
 > *Note: CIFAR-10 uses 8×8 patches instead of 16×16 due to image resolution.*
 
